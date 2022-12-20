@@ -1,0 +1,21 @@
+main {
+  
+}
+
+main h1 {
+    font-size: 64px;
+    margin: 5%;
+    text-align: center;
+
+}
+
+article  {
+    display: flex;
+    border: 1px solid;
+    width: 200px;
+    margin: 20px;
+    padding: 5%;
+    text-indent: 15px;
+    height: 600px;
+}
+
